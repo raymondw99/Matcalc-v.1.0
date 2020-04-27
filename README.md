@@ -135,4 +135,4 @@ Outputs the elements of a matrix.
 
 The only accepted reason to modify the API of this package is to handle issues that cannot be resolved in any other reasonable way.
 
-Raymond Wang 2020 - [raymondw](https://github.com/raymondw99) 
+Raymond Wang 2020 - [raymondw99](https://github.com/raymondw99) 
