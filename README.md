@@ -2,7 +2,7 @@
 ### The ultimate matrix calculator 
 Matcalc is a package for vector and matrix operations, implemented in both Python and Java. It is primarily inspired by [matrixcalc.org](https://matrixcalc.org/en/) and offers features such as vector cross products, matrix multiplications and Gauss-Jordan elimination. The aim of which is to enable simple yet powerful matrix calculations.
 <p>
- <img width="400" height="250" src="https://gits-15.sys.kth.se/grudat20/raymondw-ovn7/blob/master/img.png">
+ <img width="400" height="250" src="https://github.com/raymondw99/Matcalc-v.1.0/blob/master/img.png">
 </p>
 
 Implemented as a final project in [DD1327 - Fundamentals of computer science](https://www.kth.se/social/course/DD1327/).
