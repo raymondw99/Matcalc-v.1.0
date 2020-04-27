@@ -58,7 +58,7 @@ Returns the sum of two vectors.
 ```
 func diff(array[] v1, array[] v2)
 ```
-Returns the difference of two vectors.
+Returns the difference between two vectors.
 #### func scaProd
 ```
 func scaProd(array[] v, scalar k) 
@@ -83,7 +83,7 @@ Returns the sum of two matrices.
 ```
 func sub(array[][] m1, array[][] m2) 
 ```
-Returns the difference of two matrices.
+Returns the difference between two matrices.
 #### func scaMult
 ```
 func scaMult(array[][] m, scalar k) 
@@ -135,4 +135,4 @@ Outputs the elements of a matrix.
 
 The only accepted reason to modify the API of this package is to handle issues that cannot be resolved in any other reasonable way.
 
-Raymond Wang 2020 - [raymondw](https://gits-15.sys.kth.se/raymondw) 
+Raymond Wang 2020 - [raymondw](https://github.com/raymondw99) 
