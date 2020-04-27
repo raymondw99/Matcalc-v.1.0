@@ -131,7 +131,7 @@ func printM(array[][] m)
 Outputs the elements of a matrix.
 ### Roadmap 
 * The API of this library is frozen.
-* Version numbers adhere to semantic versioning.
+* Version numbers adhere to [semantic versioning](https://semver.org).
 
 The only accepted reason to modify the API of this package is to handle issues that cannot be resolved in any other reasonable way.
 
