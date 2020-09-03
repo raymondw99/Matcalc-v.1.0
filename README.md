@@ -1,6 +1,6 @@
 # Matcalc v.1.0
 ### The ultimate matrix calculator 
-Matcalc is a package for vector and matrix operations, implemented in both Python and Java. It is primarily inspired by [matrixcalc.org](https://matrixcalc.org/en/) and offers features such as vector cross products, matrix multiplications and Gauss-Jordan elimination. <br> The aim of which is to enable simple yet powerful matrix calculations.
+Matcalc is a package for vector and matrix operations, implemented in both Python and Java. It is primarily inspired by [matrixcalc.org](https://matrixcalc.org/en/) and offers features such as vector cross products, matrix multiplications and Gauss-Jordan elimination. <br> The aim of which is to enable simple yet powerful matrix calculations.   
 <p>
  <img width="400" height="250" src="https://github.com/raymondw99/Matcalc-v.1.0/blob/master/img.png">
 </p>
